@@ -1,0 +1,19 @@
+{
+  "name": "event-middleware",
+  "version": "1.0.0",
+  "description": "Middleware for DOM Events.",
+  "main": "Event-Middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Market-Mentors-LLC/event-middleware.git"
+  },
+  "author": "Tyler Seabury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Market-Mentors-LLC/event-middleware/issues"
+  },
+  "homepage": "https://github.com/Market-Mentors-LLC/event-middleware#readme"
+}
